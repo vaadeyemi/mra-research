@@ -1,5 +1,5 @@
-import contactBanner from '../src/assets/images/contact-banner.png';
-import '../src/App.css';
+import contactBanner from '../assets/images/contact-banner.png';
+import '../App.css';
 
 export default function ContactSection({ openModal }) {
   return (
