@@ -1,5 +1,5 @@
-import eventsBanner from '../src/assets/images/events-banner.png';
-import '../src/App.css';
+import eventsBanner from '../assets/images/events-banner.png';
+import '../App.css';
 
 export default function EventsSection() {
   return (
