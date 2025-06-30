@@ -1,5 +1,5 @@
 import aboutBanner from '../assets/images/about-banner.png';
-import '../App.css';
+import './App.css';
 
 export default function AboutSection() {
   return (
