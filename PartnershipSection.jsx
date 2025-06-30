@@ -1,5 +1,5 @@
-import partnershipBanner from '../src/assets/images/partnership-banner.png';
-import '../src/App.css';
+import partnershipBanner from '../assets/images/partnership-banner.png';
+import '../App.css';
 
 export default function PartnershipSection({ openModal }) {
   return (
