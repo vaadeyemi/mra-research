@@ -1,7 +1,7 @@
 // src/App.jsx
 import React, { useState } from 'react';
-import logo from '../src/assets/images/mra-logo.png';
-import '../src/App.css';
+import logo from '../assets/images/mra-logo.png';
+import '../App.css';
 import Modal from './Modal';
 import ApplicationForm from './ApplicationForm';
 import ContactForm from './ContactForm';
