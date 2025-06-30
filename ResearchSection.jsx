@@ -1,5 +1,5 @@
-import researchBanner from '../src/assets/images/research-banner.png';
-import '../src/App.css';
+import researchBanner from '../assets/images/research-banner.png';
+import '../App.css';
 
 export default function ResearchSection() {
   return (
