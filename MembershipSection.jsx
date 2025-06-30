@@ -1,5 +1,5 @@
-import membershipBanner from '../src/assets/images/membership-banner.png';
-import '../src/App.css';
+import membershipBanner from '../assets/images/membership-banner.png';
+import '../App.css';
 
 export default function MembershipSection({ openModal }) {
   return (
