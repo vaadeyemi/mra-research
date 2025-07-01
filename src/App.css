@@ -1,0 +1,12 @@
+.logo {
+  height: 60px; 
+  object-fit: contain;
+  padding: 2px 0;
+}
+
+.responsive-banner {
+  width: 100%;
+  height: auto;
+  max-height: 400px;
+  object-fit: cover;
+}
